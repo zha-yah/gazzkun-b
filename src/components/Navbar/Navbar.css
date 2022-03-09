@@ -1,0 +1,134 @@
+/* topnav container */
+.topNav {
+  position: absolute;
+  width: 1920px;
+  height: 75px;
+  left: 0px;
+  top: 0px;
+}
+/*Sticky nav bar*/
+.topNavScrolled {
+  position: fixed;
+  width: 1920px;
+  height: 75px;
+  left: 0px;
+  top: 0px;
+}
+/* long grey background bar */
+.longBar{
+  position: absolute;
+  width: 1920px;
+  height: 75px;
+  left: 0px;
+  top: 0px;
+
+  background: #C4C4C4;
+}
+
+/* Logo */
+.logoNavbar {
+  position: absolute;
+  width: 75px;
+  height: 75px;
+  left: 158px;
+  top: 0px;
+  cursor: pointer;
+}
+
+/* GAZZ-Kun! */
+.logoName {
+  position: absolute;
+  width: 274px;
+  height: 72px;
+  left: 261px;
+  top: 1px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 72px;
+  /* identical to box height */
+
+  color: #000000;
+}
+
+/* searchBar */
+.searchBar{
+  position: absolute;
+  width: 600px;
+  height: 32px;
+  left: 660px;
+  top: 21px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 36px;
+  /* identical to box height */
+
+  color: #000000;
+
+  background: #FFFFFF;
+  border: none;
+}
+
+/* Search for items */
+.searchForItems{
+  position: absolute;
+  width: 195px;
+  height: 36px;
+  left: 680px;
+  top: 19px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 36px;
+  /* identical to box height */
+
+  color: #000000;
+}
+
+/* Sign In */
+.signIn{
+  position: absolute;
+  width: 81px;
+  height: 36px;
+  left: 1675px;
+  top: 21px;
+  cursor: pointer;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 36px;
+  /* identical to box height */
+
+  color: #000000;
+}
+
+/* searchIcon */
+.searchIcon{
+  position: absolute;
+  left: 64.43%;
+  right: 34.6%;
+  width: 18.71px;
+  height: 18.71px;
+  top: 38%;
+  bottom: 20.68%;
+  cursor: pointer;
+}
+
+/* shoppingCartIcon */
+.shoppingCartIcon{
+  position: absolute;
+  width: 53px;
+  height: 44px;
+  left: 1814px;
+  top: 15px;
+  cursor: pointer;
+}

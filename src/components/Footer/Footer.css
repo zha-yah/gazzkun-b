@@ -1,0 +1,122 @@
+/* Footer 
+.footer{
+  position: absolute;
+  width: 1920px;
+  height: 426px;
+  left: 0px;
+  top: 1967px;
+}*/
+
+/* footerContainer 1977*/
+.footerContainer{
+  position: absolute;
+  width: 1920px;
+  height: 426px;
+  left: 0px;
+  top: 2277px;
+  background: #C4C4C4;
+}
+/* FAQ/Help */
+.faq{
+  position: absolute;
+  width: 230px;
+  height: 72px;
+  left: 158px;
+  top: 2361px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 72px;
+  /* identical to box height */
+  color: #000000;
+  cursor: pointer;
+}
+/* Feedback Form */
+.feedback{
+  position: absolute;
+  width: 381px;
+  height: 72px;
+  left: 158px;
+  top: 2444px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 72px;
+  /* identical to box height */
+  color: #000000;
+  cursor: pointer;
+}
+/* Contact us! */
+.contactus{
+  position: absolute;
+  width: 289px;
+  height: 72px;
+  left: 158px;
+  top: 2527px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 72px;
+  /* identical to box height */
+  color: #000000;
+  cursor: pointer;
+}
+/* Terms of Service */
+.tos{
+  position: absolute;
+  width: 407px;
+  height: 72px;
+  left: 629px;
+  top: 2361px;  
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 72px;
+  /* identical to box height */
+  color: #000000;
+  cursor: pointer;
+}
+/* Privacy and Policies */
+.pol{
+  position: absolute;
+  width: 493px;
+  height: 72px;
+  left: 629px;
+  top: 2444px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 72px;
+  /* identical to box height */
+  color: #000000;
+  cursor: pointer;
+}
+/* Useful Links */
+.useful{
+  position: absolute;
+  width: 291px;
+  height: 72px;
+  left: 629px;
+  top: 2527px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 72px;
+  /* identical to box height */
+  color: #000000;
+  cursor: pointer;
+}
+/* Logo */
+.logoFooter{
+  position: absolute;
+  width: 284px;
+  height: 284px;
+  left: 1550px;
+  top: 2338px;
+}

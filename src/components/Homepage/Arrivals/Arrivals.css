@@ -1,0 +1,190 @@
+/* Arrivals */
+.arrivals{
+  position: absolute;
+  width: 1878px;
+  height: 451px;
+  left: 21px;
+  top: 580px;
+}
+
+/* New Arrivals */
+.title{
+  position: absolute;
+  width: 312px;
+  height: 72px;
+  left: 106px;
+  top: 580px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 72px;
+  /* identical to box height */
+
+  color: #000000;
+}
+/* Item 1 */
+.item1-container{
+ position: absolute;
+ width: 312px;
+ height: 365px;
+ left: 106px;
+ top: 666px;
+
+ background: #E7AEAE;
+ border-radius: 20px;
+}
+/* [Name] [Category] [Price] */
+.item1-description{
+ position: absolute;
+ width: 238px;
+ height: 86px;
+ left: 117px;
+ top: 1039px;
+ cursor: pointer;
+
+ font-family: Poppins;
+ font-style: normal;
+ font-weight: bold;
+ font-size: 20px;
+ line-height: 30px;
+
+ color: #000000;
+}
+/* Item 2 */
+.item2-container{
+  position: absolute;
+  width: 312px;
+  height: 365px;
+  left: 455px;
+  top: 666px;
+
+  background: #E7AEAE;
+  border-radius: 20px;
+}
+/* [Name] [Category] [Price] */
+.item2-description{
+  position: absolute;
+  width: 238px;
+  height: 86px;
+  left: 466px;
+  top: 1039px;
+  cursor: pointer;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 30px;
+
+  color: #000000;
+}
+/* Item 3 */
+.item3-container{
+  position: absolute;
+  width: 312px;
+  height: 365px;
+  left: 804px;
+  top: 666px;
+
+  background: #E7AEAE;
+  border-radius: 20px;
+}
+/* [Name] [Category] [Price] */
+.item3-description{
+  position: absolute;
+  width: 238px;
+  height: 86px;
+  left: 815px;
+  top: 1039px;
+  cursor: pointer;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 30px;
+
+  color: #000000;
+}
+/* Item 4 */
+.item4-container{
+  position: absolute;
+  width: 312px;
+  height: 365px;
+  left: 1153px;
+  top: 666px;
+
+  background: #E7AEAE;
+  border-radius: 20px;
+}
+/* [Name] [Category] [Price] */
+.item4-description{
+  position: absolute;
+  width: 238px;
+  height: 86px;
+  left: 1164px;
+  top: 1039px;
+  cursor: pointer;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 30px;
+
+  color: #000000;
+}
+
+/* Item 5 */
+.item5-container{
+  position: absolute;
+  width: 312px;
+  height: 365px;
+  left: 1502px;
+  top: 666px;
+
+  background: #E7AEAE;
+  border-radius: 20px;
+}
+
+/* [Name] [Category] [Price] */
+.item5-description{
+  position: absolute;
+  width: 238px;
+  height: 86px;
+  left: 1513px;
+  top: 1039px;
+  cursor: pointer;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 30px;
+
+  color: #000000;
+}
+/* arrowLeft */
+.arrow-left-a{
+  position: absolute;
+  width: 58px;
+  height: 55px;
+  left: 21px;
+  top: 830px;
+  cursor: pointer;
+
+  border-radius: 5px;
+}
+/* arrowRight */
+.arrow-right-a{
+  position: absolute;
+  width: 58px;
+  height: 55px;
+  left: 1845px;
+  top: 830px;
+  cursor: pointer;
+
+  border-radius: 5px;
+}

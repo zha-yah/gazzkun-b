@@ -1,0 +1,373 @@
+/* category 
+position: absolute;
+width: 1663px;
+height: 271px;
+left: 130px;
+top: 1080px;
+*/
+
+/* Categories */
+.categories{
+  position: absolute;
+  width: 273px;
+  height: 72px;
+  left: 823px;
+  top: 1190px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 72px;
+  /* identical to box height */
+
+  color: #000000;
+}
+
+
+/* cat-con-1 */ 
+.cat-con-1{
+  position: absolute;
+  width: 235px;
+  height: 74px;
+  left: 130px;
+  top: 1278px;
+
+  background: #E7AEAE;
+  border-radius: 10px;
+}
+/* cat-txt-1 187 */ 
+.cat-txt-1{
+  position: absolute;
+  width: 121px;
+  height: 26px;
+  left: 213px;
+  top: 1302px;
+  cursor: pointer;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 30px;
+
+  color: #000000;
+}
+/* cat-con-2 */
+.cat-con-2{
+  position: absolute;
+  width: 235px;
+  height: 74px;
+  left: 415px;
+  top: 1278px;
+
+  background: #E7AEAE;
+  border-radius: 10px;
+}
+/* cat-txt-2 */ 
+.cat-txt-2{
+  position: absolute;
+  width: 121px;
+  height: 26px;
+  left: 498px;
+  top: 1302px;
+  cursor: pointer;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 30px;
+
+  color: #000000;
+}
+/* cat-con-3 */
+.cat-con-3{
+  position: absolute;
+  width: 235px;
+  height: 74px;
+  left: 700px;
+  top: 1278px;
+
+  background: #E7AEAE;
+  border-radius: 10px;
+}
+/* cat-txt-3  */
+.cat-txt-3{
+  position: absolute;
+  width: 121px;
+  height: 26px;
+  left: 784px;
+  top: 1302px;
+  cursor: pointer;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 30px;
+
+  color: #000000;
+}
+/* cat-con-4 */
+.cat-con-4{
+  position: absolute;
+  width: 235px;
+  height: 74px;
+  left: 985px;
+  top: 1278px;
+
+  background: #E7AEAE;
+  border-radius: 10px;
+}
+/* cat-txt-4 */
+.cat-txt-4{
+  position: absolute;
+  width: 121px;
+  height: 26px;
+  left: 1069px;
+  top: 1302px;
+  cursor: pointer;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 30px;
+
+  color: #000000;
+}
+
+/* cat-con-5 */
+.cat-con-5{
+  position: absolute;
+  width: 235px;
+  height: 74px;
+  left: 1270px;
+  top: 1278px;
+
+  background: #E7AEAE;
+  border-radius: 10px;
+}
+/* cat-txt-5 */
+.cat-txt-5{
+  position: absolute;
+  width: 121px;
+  height: 26px;
+  left: 1355px;
+  top: 1302px;
+  cursor: pointer;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 30px;
+
+  color: #000000;
+}
+
+/* cat-con-6 */
+.cat-con-6{
+  position: absolute;
+  width: 235px;
+  height: 74px;
+  left: 1558px;
+  top: 1278px;
+
+  background: #E7AEAE;
+  border-radius: 10px;
+}
+/* cat-txt-6 */
+.cat-txt-6{
+  position: absolute;
+  width: 121px;
+  height: 26px;
+  left: 1642px;
+  top: 1302px;
+  cursor: pointer;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 30px;
+
+  color: #000000;
+}
+
+/* cat-con-7 */
+.cat-con-7{
+  position: absolute;
+  width: 235px;
+  height: 74px;
+  left: 130px;
+  top: 1387px;
+
+  background: #E7AEAE;
+  border-radius: 10px;
+}
+/* cat-txt-7 */
+.cat-txt-7{
+  position: absolute;
+  width: 121px;
+  height: 26px;
+  left: 213px;
+  top: 1411px;
+  cursor: pointer;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 30px;
+
+  color: #000000;
+}
+
+/* cat-con-8 */
+.cat-con-8{
+  position: absolute;
+  width: 235px;
+  height: 74px;
+  left: 415px;
+  top: 1387px;
+
+  background: #E7AEAE;
+  border-radius: 10px;
+}
+/* cat-txt-8 */
+.cat-txt-8{
+  position: absolute;
+  width: 121px;
+  height: 26px;
+  left: 498px;
+  top: 1411px;
+  cursor: pointer;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 30px;
+
+  color: #000000;
+}
+
+/* cat-con-9 */
+.cat-con-9{
+  position: absolute;
+  width: 235px;
+  height: 74px;
+  left: 700px;
+  top: 1387px;
+
+  background: #E7AEAE;
+  border-radius: 10px;
+}
+/* cat-txt-9 */
+.cat-txt-9{
+  position: absolute;
+  width: 121px;
+  height: 26px;
+  left: 784px;
+  top: 1411px;
+  cursor: pointer;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 30px;
+
+  color: #000000;
+}
+
+/* cat-con-10 */
+.cat-con-10{
+  position: absolute;
+  width: 235px;
+  height: 74px;
+  left: 985px;
+  top: 1387px;
+
+  background: #E7AEAE;
+  border-radius: 10px;
+}
+/* cat-txt-10 */
+.cat-txt-10{
+  position: absolute;
+  width: 121px;
+  height: 26px;
+  left: 1069px;
+  top: 1411px;
+  cursor: pointer;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 30px;
+
+  color: #000000;
+}
+
+/* cat-con-11 */
+.cat-con-11{
+  position: absolute;
+  width: 235px;
+  height: 74px;
+  left: 1270px;
+  top: 1387px;
+
+  background: #E7AEAE;
+  border-radius: 10px;
+}
+/* cat-txt-11 */
+.cat-txt-11{
+  position: absolute;
+  width: 121px;
+  height: 26px;
+  left: 1355px;
+  top: 1411px;
+  cursor: pointer;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 30px;
+
+  color: #000000;
+}
+/* cat-con-12 */
+.cat-con-12{
+  position: absolute;
+  width: 235px;
+  height: 74px;
+  left: 1558px;
+  top: 1387px;
+
+  background: #E7AEAE;
+  border-radius: 10px;
+}
+/* cat-txt-12 */
+.cat-txt-12{
+  position: absolute;
+  width: 121px;
+  height: 26px;
+  left: 1642px;
+  top: 1411px;
+  cursor: pointer;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 30px;
+
+  color: #000000;
+}
+
+
+
