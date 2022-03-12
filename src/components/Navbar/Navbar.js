@@ -5,8 +5,6 @@ import './Navbar.css';
 import logo from '../../assets/Logo GAZZ-Kun.png';
 import searchIcon from '../../assets/searchIcon.png';
 import shoppingCartIcon from '../../assets/shoppingCartIcon.png';
-import Homepage from '../../pages/Homepage';
-import UserPage from '../../pages/UserPage';
 
 const Navbar = () => {
   return (
@@ -32,7 +30,7 @@ const Navbar = () => {
       </div>
     </div>
     </nav>
-  )
-}
+  );
+};
 
-export default Navbar
+export default Navbar;

@@ -1,0 +1,178 @@
+/*Item component 
+
+position: absolute;
+width: 1505px;
+height: 730px;
+left: 207px;
+top: 179px;
+*/
+
+/* Name */
+.temp1-name{
+  position: absolute;
+  width: 545px;
+  height: 72px;
+  left: 1167px;
+  top: 244px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 72px;
+  /* identical to box height */
+
+  color: #2F2F2F;
+}
+/* [Price] */
+.temp1-price{
+  position: absolute;
+  width: 545px;
+  height: 45px;
+  left: 1167px;
+  top: 341px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+
+  color: #2F2F2F;
+}
+/* [Category] */
+.temp1-category{
+  position: absolute;
+  width: 545px;
+  height: 45px;
+  left: 1167px;
+  top: 411px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+
+  color: #2F2F2F;
+}
+/* sqrBig */
+.temp1-item-main{
+  position: absolute;
+  width: 600px;
+  height: 600px;
+  left: 447px;
+  top: 244px;
+
+  background: #E7AEAE;
+  border-radius: 20px;
+}
+/* sqrTop */
+.temp1-item-top{
+  position: absolute;
+  width: 180px;
+  height: 180px;
+  left: 207px;
+  top: 244px;
+
+  background: #E7AEAE;
+  border-radius: 20px;
+}
+/* sqrMid */
+.temp1-item-mid{
+  position: absolute;
+  width: 180px;
+  height: 180px;
+  left: 207px;
+  top: 454px;
+
+  background: #E7AEAE;
+  border-radius: 20px;
+}
+/* sqrBot */
+.temp1-item-bot{
+  position: absolute;
+  width: 180px;
+  height: 180px;
+  left: 207px;
+  top: 664px;
+
+  background: #E7AEAE;
+  border-radius: 20px;
+}
+/* arrowDown */
+.temp1-arrow-down{
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  left: 322px;
+  top: 859px;
+}
+/* arrowUp */
+.temp1-arrow-up{
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  left: 272px;
+  top: 229px;
+}
+/* cartBG */
+.temp1-cart-bg{
+position: absolute;
+width: 230px;
+height: 60px;
+left: 1167px;
+top: 784px;
+
+background: #A7E99C;
+border-radius: 20px;
+}
+/* Add to cart */
+.temp1-cart-content{
+  position: absolute;
+  width: 205px;
+  height: 45px;
+  left: 1179px;
+  top: 792px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+  text-align: center;
+
+  color: #2F2F2F;
+}
+/* wishlistBG */
+.temp1-wishlist-bg{
+  position: absolute;
+  width: 290px;
+  height: 60px;
+  left: 1422px;
+  top: 784px;
+
+  background: #ECECEC;
+  border-radius: 20px;
+}
+/* Add to wishlist */
+.temp1-wishlist-content{
+  position: absolute;
+  width: 263px;
+  height: 45px;
+  left: 1435px;
+  top: 792px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+  text-align: center;
+
+  color: #2F2F2F;
+}

@@ -6,7 +6,6 @@ import Arrivals from '../components/Homepage/Arrivals/Arrivals';
 import Category from '../components/Homepage/Categories/Category';
 import CategoryExt from '../components/Homepage/CategoriesExt/categoryExt';
 
-
 const Homepage = () => {
   return (
     <>
@@ -17,7 +16,7 @@ const Homepage = () => {
       <CategoryExt/>
       <Footer/>
     </>
-  )
-}
+  );
+};
 
-export default Homepage
+export default Homepage;

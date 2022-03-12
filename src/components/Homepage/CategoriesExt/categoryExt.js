@@ -1,4 +1,6 @@
-import React from 'react'
+/* eslint-disable react/jsx-no-duplicate-props */
+import React, {useEffect} from 'react'
+import { NavLink as Link, NavLink, Route, Router, Routes } from "react-router-dom";
 import './categoryExt.css';
 import arrowLeft from '../../../assets/arrowLeft.png';
 import arrowRight from '../../../assets/arrowRight.png';
@@ -11,15 +13,35 @@ const categoryExt = () => {
     <div className='category-title'>Anime</div>
     <img src={arrowLeft} alt='arrowLeft' className='arrow-left-c' />
     <img src={itemTemp3} alt='itemTemp3' className='cat-box-1' />
-    <div className='cat-desc-1'>Name of Product $Price Of Product Category of Product</div>
+    <NavLink to='/tempItemPage2' activeStyle>
+      <span className='cat-desc-1' style={{"display": "block"}}>
+        Name of Product $Price Of Product Category of Product
+      </span>
+		</NavLink>
     <img src={itemTemp3} alt='itemTemp3' className='cat-box-2' />
-    <div className='cat-desc-2'>Name of Product $Price of Product Category of Product</div>
+    <NavLink to='/tempItemPage2' activeStyle>
+      <span className='cat-desc-2' style={{"display": "block"}}>
+        Name of Product $Price Of Product Category of Product
+      </span>
+		</NavLink>
     <img src={itemTemp3} alt='itemTemp3' className='cat-box-3' />
-    <div className='cat-desc-3'>Name of Product $Price of Product Category of Product</div>
+    <NavLink to='/tempItemPage2' activeStyle>
+      <span className='cat-desc-3' style={{"display": "block"}}>
+        Name of Product $Price Of Product Category of Product
+      </span>
+		</NavLink>
     <img src={itemTemp3} alt='itemTemp3' className='cat-box-4' />
-    <div className='cat-desc-4'>Name of Product $Price of Product Category of Product</div>
+    <NavLink to='/tempItemPage2' activeStyle>
+      <span className='cat-desc-4' style={{"display": "block"}}>
+        Name of Product $Price Of Product Category of Product
+      </span>
+		</NavLink>
     <img src={itemTemp3} alt='itemTemp3' className='cat-box-5' />
-    <div className='cat-desc-5'>Name of Product $Price of Product Category of Product</div>
+    <NavLink to='/tempItemPage2' activeStyle>
+      <span className='cat-desc-5' style={{"display": "block"}}>
+        Name of Product $Price Of Product Category of Product
+      </span>
+		</NavLink>
     <img src={arrowRight} alt='arrowRight1' className='arrow-right-c'/>
     
     </>

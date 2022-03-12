@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import Navbar from "../components/Navbar/Navbar";
 import Footer from "../components/Footer/Footer";
 import Userinfo from "../components/Userpage/Userinfo/Userinfo";
@@ -9,12 +8,13 @@ import Myorders from "../components/Userpage/Myorders/Myorders";
 const UserPage = () => {
     return(
         <>
-        <Navbar />
+        <Navbar/>
         <Userinfo/>
         <Mylisting/>
         <Myorders/>
-        <Footer />
-        {/* THE PREVIOUS IMPLEMENTATION BY Zak
+        <Footer/>
+        {/* 
+        THE PREVIOUS IMPLEMENTATION BY Zak
             <div>
                 <h1>Seller Page</h1>
                     <br />
@@ -31,11 +31,11 @@ const UserPage = () => {
                         Endpoint to route to Contact Us component 
                         <Link to="/Delete">Delete</Link>
                     </li>
-                </ul>
+                    </ul>
             </div>
         */} 
         </>
 );
 };
 
-export default UserPage
+export default UserPage;
