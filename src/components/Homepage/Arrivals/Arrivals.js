@@ -1,6 +1,6 @@
 /* eslint-disable react/jsx-no-duplicate-props */
-import React, {useEffect} from 'react';
-import { NavLink as Link, NavLink, Route, Router, Routes } from "react-router-dom";
+import React from 'react';
+import { Link } from "react-router-dom";
 import './Arrivals.css';
 import arrowLeft from '../../../assets/arrowLeft.png';
 import arrowRight from '../../../assets/arrowRight.png';

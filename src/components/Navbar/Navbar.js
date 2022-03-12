@@ -1,6 +1,6 @@
 /* eslint-disable react/jsx-no-duplicate-props */
-import React, {useEffect} from 'react';
-import { NavLink as Link, NavLink, Route, Router, Routes } from "react-router-dom";
+import React from 'react';
+import { NavLink } from "react-router-dom";
 import './Navbar.css';
 import logo from '../../assets/Logo GAZZ-Kun.png';
 import searchIcon from '../../assets/searchIcon.png';

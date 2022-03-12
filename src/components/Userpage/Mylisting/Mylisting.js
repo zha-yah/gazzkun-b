@@ -1,4 +1,6 @@
+/* eslint-disable react/jsx-no-duplicate-props */
 import React from 'react';
+import { Link } from "react-router-dom";
 import './Mylisting.css';
 import arrowLeft from '../../../assets/arrowLeft.png';
 import arrowRight from '../../../assets/arrowRight.png';
@@ -16,37 +18,48 @@ const Mylisting = () => {
         <img src={itemTemp4} alt='itemTemp4' className='itemPicture-1'></img>
         <div className='itemDescrition-1'>Name of Product $Price of Product Category of Product</div>
         <div className='itemUtil-1'/>
-        <img src={addIcon} alt='arrowLeft' className='addIcon-1'/>
-        <img src={editIcon} alt='arrowLeft'className='editIcon-1'/>
-        <img src={deleteIcon} alt='arrowLeft'className='deleteIcon-1'/>
+        <Link to='/addOrEdit' activeStyle>
+            <img src={addIcon} alt='addIcon' className='addIcon-1'/>  
+            <img src={editIcon} alt='editIcon'className='editIcon-1'/>        
+        </Link>
+        
+        <img src={deleteIcon} alt='deleteIcon'className='deleteIcon-1'/>
       {/* item 2 */}
         <img src={itemTemp4} alt='itemTemp4' className='itemPicture-2'></img>
         <div className='itemDescrition-2'>Name of Product $Price of Product Category of Product</div>
         <div className='itemUtil-2'/>
-        <img src={addIcon} alt='arrowLeft' className='addIcon-2'/>
-        <img src={editIcon} alt='arrowLeft'className='editIcon-2'/>
-        <img src={deleteIcon} alt='arrowLeft'className='deleteIcon-2'/>
+        <Link to='/addOrEdit' activeStyle>
+            <img src={addIcon} alt='addIcon' className='addIcon-2'/> 
+            <img src={editIcon} alt='editIcon'className='editIcon-2'/>         
+        </Link>
+        <img src={deleteIcon} alt='deleteIcon'className='deleteIcon-2'/>
       {/* item 3 */}
         <img src={itemTemp4} alt='itemTemp4' className='itemPicture-3'></img>
         <div className='itemDescrition-3'>Name of Product $Price of Product Category of Product</div>
         <div className='itemUtil-3'/>
-        <img src={addIcon} alt='arrowLeft' className='addIcon-3'/>
-        <img src={editIcon} alt='arrowLeft'className='editIcon-3'/>
-        <img src={deleteIcon} alt='arrowLeft'className='deleteIcon-3'/>
+        <Link to='/addOrEdit' activeStyle>
+            <img src={addIcon} alt='addIcon' className='addIcon-3'/>
+            <img src={editIcon} alt='editIcon'className='editIcon-3'/>          
+        </Link>
+        <img src={deleteIcon} alt='deleteIcon'className='deleteIcon-3'/>
       {/* item 4 */}
         <img src={itemTemp4} alt='itemTemp4' className='itemPicture-4'></img>
         <div className='itemDescrition-4'>Name of Product $Price of Product Category of Product</div>
         <div className='itemUtil-4'/>
-        <img src={addIcon} alt='arrowLeft' className='addIcon-4'/>
-        <img src={editIcon} alt='arrowLeft'className='editIcon-4'/>
-        <img src={deleteIcon} alt='arrowLeft'className='deleteIcon-4'/>
+        <Link to='/addOrEdit' activeStyle>
+            <img src={addIcon} alt='addIcon' className='addIcon-4'/>
+            <img src={editIcon} alt='editIcon'className='editIcon-4'/>          
+        </Link>
+        <img src={deleteIcon} alt='deleteIcon'className='deleteIcon-4'/>
       {/* item 5 */}
         <img src={itemTemp4} alt='itemTemp4' className='itemPicture-5'></img>
         <div className='itemDescrition-5'>Name of Product $Price of Product Category of Product</div>
         <div className='itemUtil-5'/>
-        <img src={addIcon} alt='arrowLeft' className='addIcon-5'/>
-        <img src={editIcon} alt='arrowLeft'className='editIcon-5'/>
-        <img src={deleteIcon} alt='arrowLeft'className='deleteIcon-5'/>
+        <Link to='/addOrEdit' activeStyle>
+            <img src={addIcon} alt='addIcon' className='addIcon-5'/>
+            <img src={editIcon} alt='editIcon'className='editIcon-5'/>          
+        </Link>
+        <img src={deleteIcon} alt='deleteIcon'className='deleteIcon-5'/>
       <img src={arrowRight} alt='arrowRight' className='arrowRight-itemlisting' />
     </>
   )

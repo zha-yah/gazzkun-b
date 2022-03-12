@@ -1,0 +1,706 @@
+/* Add/Edit component 
+position: absolute;
+width: 1755px;
+height: 910px;
+left: 82px;
+top: 189px;
+*/
+
+/* imageBG */
+.eap-image-bg{
+  position: absolute;
+  width: 1755px;
+  height: 300px;
+  left: 82px;
+  top: 189px;
+
+  background: #F5F5F5;
+  border-radius: 20px;
+}
+/* pict1 */
+.eap-pict1{
+  position: absolute;
+  width: 230px;
+  height: 230px;
+  left: 575px;
+  top: 224px;
+
+  background: #E7AEAE;
+  border-radius: 20px;
+}
+/* pict2 */
+.eap-pict2{
+  position: absolute;
+  width: 230px;
+  height: 230px;
+  left: 865px;
+  top: 224px;
+
+  background: #E7AEAE;
+  border-radius: 20px;
+}
+/* pict3 */
+.eap-pict3{
+  position: absolute;
+  width: 230px;
+  height: 230px;
+  left: 1155px;
+  top: 224px;
+
+  background: #E7AEAE;
+  border-radius: 20px;
+}
+/* pict4 */
+.eap-pict4{
+  position: absolute;
+  width: 230px;
+  height: 230px;
+  left: 1445px;
+  top: 224px;
+
+  background: #E7AEAE;
+  border-radius: 20px;
+}
+/* plusIcon */
+.eap-plusicon{
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  left: 1485px;
+  top: 264px;
+  cursor: pointer;
+}
+/* Image */
+.eap-image-content{
+  position: absolute;
+  width: 319px;
+  height: 45px;
+  left: 127px;
+  top: 316px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+
+  color: #2F2F2F;
+}
+/* nameBGlong-txt 
+background: #ECECEC;
+opacity: 0.5;
+*/
+.eap-name-bg-long-txt{
+  position: absolute;
+  width: 1166px;
+  height: 60px;
+  left: 490px;
+  top: 539px;
+  cursor: text;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 36px;
+  /* identical to box height */
+
+  color: #000000;
+  background: #FFFFFF;
+  border: none;
+}
+/* nameBGlong */
+.eap-name-bg-long{
+  position: absolute;
+  width: 1595px;
+  height: 60px;
+  left: 82px;
+  top: 539px;
+
+  background: #ECECEC;
+  opacity: 0.5;
+  border-radius: 20px;
+}
+/* nameBG */
+.eap-name-bg{
+  position: absolute;
+  width: 400px;
+  height: 60px;
+  left: 82px;
+  top: 539px;
+
+  background: #E5E5E5;
+  border-radius: 20px;
+}
+/* Name */
+.eap-name-content{
+  position: absolute;
+  width: 319px;
+  height: 45px;
+  left: 127px;
+  top: 545px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+
+  color: #2F2F2F;
+}
+/* cate1 */
+.cate-1{
+  position: absolute;
+  width: 230px;
+  height: 60px;
+  left: 575px;
+  top: 649px;
+
+  background: #ECECEC;
+  opacity: 0.5;
+  border-radius: 20px;
+}
+/* cate2 */
+.cate-2{
+  position: absolute;
+  width: 230px;
+  height: 60px;
+  left: 575px;
+  top: 734px;
+
+  background: #ECECEC;
+  opacity: 0.5;
+  border-radius: 20px;
+}
+/* cate3 */
+.cate-3{
+  position: absolute;
+  width: 230px;
+  height: 60px;
+  left: 575px;
+  top: 819px;
+
+  background: #ECECEC;
+  opacity: 0.5;
+  border-radius: 20px;
+}
+/* cate4 */
+.cate-4{
+  position: absolute;
+  width: 230px;
+  height: 60px;
+  left: 865px;
+  top: 649px;
+
+  background: #ECECEC;
+  opacity: 0.5;
+  border-radius: 20px;
+}
+/* cate5 */
+.cate-5{
+  position: absolute;
+  width: 230px;
+  height: 60px;
+  left: 865px;
+  top: 734px;
+
+  background: #ECECEC;
+  opacity: 0.5;
+  border-radius: 20px;
+}
+/* cate6 */
+.cate-6{
+  position: absolute;
+  width: 230px;
+  height: 60px;
+  left: 865px;
+  top: 819px;
+
+  background: #ECECEC;
+  opacity: 0.5;
+  border-radius: 20px;
+}
+/* cate7 */
+.cate-7{
+  position: absolute;
+  width: 230px;
+  height: 60px;
+  left: 1155px;
+  top: 649px;
+
+  background: #ECECEC;
+  opacity: 0.5;
+  border-radius: 20px;
+}
+/* cate8 */
+.cate-8{
+  position: absolute;
+  width: 230px;
+  height: 60px;
+  left: 1155px;
+  top: 734px;
+
+  background: #ECECEC;
+  opacity: 0.5;
+  border-radius: 20px;
+}
+/* cate9 */
+.cate-9{
+  position: absolute;
+  width: 230px;
+  height: 60px;
+  left: 1155px;
+  top: 819px;
+
+  background: #ECECEC;
+  opacity: 0.5;
+  border-radius: 20px;
+}
+/* cate10 */
+.cate-10{
+  position: absolute;
+  width: 230px;
+  height: 60px;
+  left: 1445px;
+  top: 649px;
+
+  background: #ECECEC;
+  opacity: 0.5;
+  border-radius: 20px;
+}
+/* cate11 */
+.cate-11{
+  position: absolute;
+  width: 230px;
+  height: 60px;
+  left: 1445px;
+  top: 734px;
+
+  background: #ECECEC;
+  opacity: 0.5;
+  border-radius: 20px;
+}
+/* cate12 */
+.cate-12{
+  position: absolute;
+  width: 230px;
+  height: 60px;
+  left: 1445px;
+  top: 819px;
+
+  background: #ECECEC;
+  opacity: 0.5;
+  border-radius: 20px;
+}
+
+/* categoryBG */
+.eap-cate-bg{
+  position: absolute;
+  width: 400px;
+  height: 60px;
+  left: 82px;
+  top: 649px;
+
+  background: #E9E9E9;
+  border-radius: 20px;
+}
+/* Category */
+.eap-cate-content{
+  position: absolute;
+  width: 319px;
+  height: 45px;
+  left: 127px;
+  top: 656px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+
+  color: #2F2F2F;
+}
+/* priceBGlong-txt 
+background: #ECECEC;
+opacity: 0.5;
+*/
+.eap-price-bg-long-txt{
+  position: absolute;
+  width: 302px;
+  height: 60px;
+  left: 490px;
+  top: 929px;
+  cursor: text;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 36px;
+  /* identical to box height */
+
+  color: #000000;
+  background: #FFFFFF;
+  border: none;
+}
+/* priceBGlong */
+.eap-price-bg-long{
+  position: absolute;
+  width: 723px;
+  height: 60px;
+  left: 82px;
+  top: 929px;
+
+  background: #ECECEC;
+  opacity: 0.5;
+  border-radius: 20px;
+}
+/* rpBG */
+.eap-rp-bg{
+  position: absolute;
+  width: 400px;
+  height: 60px;
+  left: 82px;
+  top: 929px;
+
+  background: rgba(237, 237, 237, 0.7);
+  border-radius: 20px;
+}
+/* Rp. */
+.eap-rp-content{
+  position: absolute;
+  width: 60px;
+  height: 45px;
+  left: 408px;
+  top: 937px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+
+  color: #2F2F2F;
+}
+/* priceBG */
+.eap-price-bg{
+  position: absolute;
+  width: 300px;
+  height: 60px;
+  left: 82px;
+  top: 929px;
+
+  background: #E9E9E9;
+  border-radius: 20px;
+}
+/* Price */
+.eap-price-content{
+  position: absolute;
+  width: 218px;
+  height: 45px;
+  left: 127px;
+  top: 937px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+
+  color: #2F2F2F;
+}
+/* discardBG */
+.eap-discard-bg{
+  position: absolute;
+  width: 300px;
+  height: 60px;
+  left: 1095px;
+  top: 1039px;
+
+  background: #ECECEC;
+  border-radius: 20px;
+}
+/* Discard changes */
+.eap-discard-content{
+  position: absolute;
+  width: 284px;
+  height: 45px;
+  left: 1103px;
+  top: 1046px;
+  cursor: pointer;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+  text-align: center;
+
+  color: #2F2F2F;
+}
+/* saveBG */
+.eap-save-bg{
+  position: absolute;
+  width: 250px;
+  height: 60px;
+  left: 1425px;
+  top: 1039px;
+
+  background: #A7E99C;
+  border-radius: 20px;
+}
+
+/* Save changes */
+.eap-save-content{
+  position: absolute;
+  width: 238px;
+  height: 45px;
+  left: 1431px;
+  top: 1046px;
+  cursor: pointer;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+  text-align: center;
+
+  color: #2F2F2F;
+}
+/* Anime1 */
+.eap-anime1{
+  position: absolute;
+  width: 98px;
+  height: 45px;
+  left: 641px;
+  top: 657px;
+  cursor: pointer;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+  text-align: center;
+
+  color: #000000;
+}
+
+/* Anime2 */
+.eap-anime2{
+  position: absolute;
+  width: 98px;
+  height: 45px;
+  left: 931px;
+  top: 657px;
+  cursor: pointer;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+  text-align: center;
+
+  color: #000000;
+}
+/* Anime3 */
+.eap-anime3{
+  position: absolute;
+  width: 98px;
+  height: 45px;
+  left: 1221px;
+  top: 657px;
+  cursor: pointer;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+  text-align: center;
+
+  color: #000000;
+}
+/* Anime4 */
+.eap-anime4{
+  position: absolute;
+  width: 98px;
+  height: 45px;
+  left: 1511px;
+  top: 657px;
+  cursor: pointer;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+  text-align: center;
+
+  color: #000000;
+}
+/* Anime5 */
+.eap-anime5{
+  position: absolute;
+  width: 98px;
+  height: 45px;
+  left: 641px;
+  top: 742px;
+  cursor: pointer;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+  text-align: center;
+
+  color: #000000;
+}
+/* Anime6 */
+.eap-anime6{
+  position: absolute;
+  width: 98px;
+  height: 45px;
+  left: 931px;
+  top: 742px;
+  cursor: pointer;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+  text-align: center;
+
+  color: #000000;
+}
+/* Anime7 */
+.eap-anime7{
+  position: absolute;
+  width: 98px;
+  height: 45px;
+  left: 1221px;
+  top: 742px;
+  cursor: pointer;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+  text-align: center;
+
+  color: #000000;
+}
+/* Anime8 */
+.eap-anime8{
+  position: absolute;
+  width: 98px;
+  height: 45px;
+  left: 1511px;
+  top: 742px;
+  cursor: pointer;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+  text-align: center;
+
+  color: #000000;
+}
+/* Anime9 */
+.eap-anime9{
+  position: absolute;
+  width: 98px;
+  height: 45px;
+  left: 641px;
+  top: 827px;
+  cursor: pointer;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+  text-align: center;
+
+  color: #000000;
+}
+/* Anime10 */
+.eap-anime10{
+  position: absolute;
+  width: 98px;
+  height: 45px;
+  left: 931px;
+  top: 827px;
+  cursor: pointer;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+  text-align: center;
+
+  color: #000000;
+}
+/* Anime11 */
+.eap-anime11{
+  position: absolute;
+  width: 98px;
+  height: 45px;
+  left: 1221px;
+  top: 827px;
+  cursor: pointer;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+  text-align: center;
+
+  color: #000000;
+}
+/* Anime12 */
+.eap-anime12{
+  position: absolute;
+  width: 98px;
+  height: 45px;
+  left: 1511px;
+  top: 827px;
+  cursor: pointer;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+  text-align: center;
+
+  color: #000000;
+}
