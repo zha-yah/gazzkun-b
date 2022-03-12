@@ -93,11 +93,30 @@
 }
 
 /* Sign In */
-.signIn{
-  position: absolute;
+.SignIn{
+  position: fixed;
   width: 81px;
   height: 36px;
   left: 1675px;
+  top: 21px;
+  cursor: pointer;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 36px;
+  /* identical to box height */
+
+  color: #000000;
+}
+
+/* User */
+.User{
+  position: fixed;
+  width: 81px;
+  height: 36px;
+  left: 1571px;
   top: 21px;
   cursor: pointer;
 
