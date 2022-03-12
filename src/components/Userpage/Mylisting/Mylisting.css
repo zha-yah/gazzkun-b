@@ -1,0 +1,423 @@
+/* myListing 
+position: absolute;
+width: 1878px;
+height: 618px;
+left: 21px;
+top: 552px;
+*/
+
+/* item1 
+position: absolute;
+width: 312px;
+height: 510px;
+left: 100px;
+top: 660px;
+*/
+
+/* Rectangle 48 */
+.itemPicture-1{
+  position: absolute;
+  width: 312px;
+  height: 365px;
+  left: 100px;
+  top: 660px;
+
+  background: #E7AEAE;
+  border-radius: 20px 20px 0px 0px;
+}
+/* [Name] [Price] [Category] */
+.itemDescrition-1{
+  position: absolute;
+  width: 238px;
+  height: 86px;
+  left: 111px;
+  top: 1084px;
+  cursor: pointer;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+
+  color: #000000;
+}
+/* Rectangle 49 */
+.itemUtil-1{
+  position: absolute;
+  width: 312px;
+  height: 47px;
+  left: 100px;
+  top: 1025px;
+
+  background: #E5E5E5;
+  border-radius: 0px 0px 10px 10px;
+}
+/* edit */
+.editIcon-1{
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  left: 238px;
+  top: 1030px;
+  cursor: pointer;
+}
+/* delete */
+.deleteIcon-1{
+  position: absolute;
+  width: 35px;
+  height: 36px;
+  left: 362px;
+  top: 1030px;
+  cursor: pointer;
+}
+/* add */
+.addIcon-1{
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  left: 114px;
+  top: 1030px;
+  cursor: pointer;
+}
+
+/* item2 
+position: absolute;
+width: 312px;
+height: 510px;
+left: 452px;
+top: 660px;
+*/
+
+/* Rectangle 48 */
+.itemPicture-2{
+  position: absolute;
+  width: 312px;
+  height: 365px;
+  left: 452px;
+  top: 660px;
+
+  background: #E7AEAE;
+  border-radius: 20px 20px 0px 0px;
+}
+/* [Name] [Price] [Category] */
+.itemDescrition-2{
+  position: absolute;
+  width: 238px;
+  height: 86px;
+  left: 463px;
+  top: 1084px;
+  cursor: pointer;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+
+  color: #000000;
+}
+/* Rectangle 49 */
+.itemUtil-2{
+  position: absolute;
+  width: 312px;
+  height: 47px;
+  left: 452px;
+  top: 1025px;
+
+  background: #E5E5E5;
+  border-radius: 0px 0px 10px 10px;
+}
+/* edit */
+.editIcon-2{
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  left: 590px;
+  top: 1030px;
+  cursor: pointer;
+}
+/* delete */
+.deleteIcon-2{
+  position: absolute;
+  width: 35px;
+  height: 36px;
+  left: 714px;
+  top: 1030px;
+  cursor: pointer;
+}
+
+/* add */
+.addIcon-2{
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  left: 466px;
+  top: 1030px;
+  cursor: pointer;
+}
+
+/* item3 
+position: absolute;
+width: 312px;
+height: 510px;
+left: 804px;
+top: 660px;
+*/
+
+/* Rectangle 48 */
+.itemPicture-3{
+position: absolute;
+width: 312px;
+height: 365px;
+left: 804px;
+top: 660px;
+
+background: #E7AEAE;
+border-radius: 20px 20px 0px 0px;
+}
+/* [Name] [Price] [Category] */
+.itemDescrition-3{
+  position: absolute;
+  width: 238px;
+  height: 86px;
+  left: 815px;
+  top: 1084px;
+  cursor: pointer;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+
+  color: #000000;
+}
+/* Rectangle 49 */
+.itemUtil-3{
+  position: absolute;
+  width: 312px;
+  height: 47px;
+  left: 804px;
+  top: 1025px;
+
+  background: #E5E5E5;
+  border-radius: 0px 0px 10px 10px;
+}
+/* edit */
+.editIcon-3{
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  left: 942px;
+  top: 1030px;
+  cursor: pointer;
+}
+/* delete */
+.deleteIcon-3{
+  position: absolute;
+  width: 35px;
+  height: 36px;
+  left: 1066px;
+  top: 1030px;
+  cursor: pointer;
+}
+/* add */
+.addIcon-3{
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  left: 818px;
+  top: 1030px;
+  cursor: pointer;
+}
+
+/* item4 
+position: absolute;
+width: 312px;
+height: 510px;
+left: 1156px;
+top: 660px;
+*/
+
+/* Rectangle 48 */
+.itemPicture-4{
+  position: absolute;
+  width: 312px;
+  height: 365px;
+  left: 1156px;
+  top: 660px;
+
+  background: #E7AEAE;
+  border-radius: 20px 20px 0px 0px;
+}
+/* [Name] [Price] [Category] */
+.itemDescrition-4{
+  position: absolute;
+  width: 238px;
+  height: 86px;
+  left: 1167px;
+  top: 1084px;
+  cursor: pointer;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+
+  color: #000000;
+}
+/* Rectangle 49 */
+.itemUtil-4{
+  position: absolute;
+  width: 312px;
+  height: 47px;
+  left: 1156px;
+  top: 1025px;
+
+  background: #E5E5E5;
+  border-radius: 0px 0px 10px 10px;
+}
+/* edit */
+.editIcon-4{
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  left: 1294px;
+  top: 1030px;
+  cursor: pointer;
+}
+/* delete */
+.deleteIcon-4{
+  position: absolute;
+  width: 35px;
+  height: 36px;
+  left: 1418px;
+  top: 1030px;
+  cursor: pointer;
+}
+/* add */
+.addIcon-4{
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  left: 1170px;
+  top: 1030px;
+  cursor: pointer;
+}
+
+/* item5 
+position: absolute;
+width: 312px;
+height: 510px;
+left: 1508px;
+top: 660px;
+*/
+/* Rectangle 48 */
+.itemPicture-5{
+  position: absolute;
+  width: 312px;
+  height: 365px;
+  left: 1508px;
+  top: 660px;
+
+  background: #E7AEAE;
+  border-radius: 20px 20px 0px 0px;
+}
+/* [Name] [Price] [Category] */
+.itemDescrition-5{
+  position: absolute;
+  width: 238px;
+  height: 86px;
+  left: 1519px;
+  top: 1084px;
+  cursor: pointer;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+
+  color: #000000;
+}
+/* Rectangle 49 */
+.itemUtil-5{
+  position: absolute;
+  width: 312px;
+  height: 47px;
+  left: 1508px;
+  top: 1025px;
+
+  background: #E5E5E5;
+  border-radius: 0px 0px 10px 10px;
+}
+/* edit */
+.editIcon-5{
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  left: 1646px;
+  top: 1030px;
+  cursor: pointer;
+}
+/* delete */
+.deleteIcon-5{
+  position: absolute;
+  width: 35px;
+  height: 36px;
+  left: 1770px;
+  top: 1030px;
+  cursor: pointer;
+}
+/* add */
+.addIcon-5{
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  left: 1522px;
+  top: 1030px;
+  cursor: pointer;
+}
+
+/* My Item Listing */
+.title-itemlisting{
+  position: absolute;
+  width: 372px;
+  height: 72px;
+  left: 116px;
+  top: 552px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 72px;
+  /* identical to box height */
+
+  color: #000000;
+}
+/* arrowLeft */
+.arrowLeft-itemlisting{
+position: absolute;
+width: 58px;
+height: 55px;
+left: 21px;
+top: 871px;
+cursor: pointer;
+
+border-radius: 5px;
+}
+/* arrowRight */
+.arrowRight-itemlisting{
+  position: absolute;
+  width: 58px;
+  height: 55px;
+  left: 1845px;
+  top: 871px;
+  cursor: pointer;
+
+  border-radius: 5px;
+}
+

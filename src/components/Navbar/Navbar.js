@@ -6,15 +6,15 @@ import logo from '../../assets/Logo GAZZ-Kun.png';
 import searchIcon from '../../assets/searchIcon.png';
 import shoppingCartIcon from '../../assets/shoppingCartIcon.png';
 import Homepage from '../../pages/Homepage';
-import SellerPage from '../../pages/SellerPage';
+import UserPage from '../../pages/UserPage';
 
 const Navbar = () => {
   return (
     <nav>
     <div className="topNav">
-      <div className="longBar">
-        <img src={logo} alt='Logo GAZZ-Kun' className='logoNavbar' />
+      <div className="longBar" >
         <NavLink to='/' activeStyle>
+          <img src={logo} alt='Logo GAZZ-Kun' className='logoNavbar' />
           <span className="logoName" style={{"display": "block"}}>
           GAZZ-Kun!
           </span>
@@ -22,7 +22,7 @@ const Navbar = () => {
         <input type="text" placeholder="Search for items" className='searchBar'>
         </input>
         <img src={searchIcon} alt='searchIcon' className='searchIcon' />
-        <NavLink to='/SellerPage' activeStyle>
+        <NavLink to='/UserPage' activeStyle>
           <span className="User" style={{"display": "block"}}>
           User
           </span>

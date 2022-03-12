@@ -1,0 +1,114 @@
+/* userInfo 
+
+position: absolute;
+width: 1392px;
+height: 374px;
+left: 114px;
+top: 126px;
+*/
+
+/* Username */
+.username{
+  position: absolute;
+  width: 920px;
+  height: 72px;
+  left: 564px;
+  top: 175px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 72px;
+  /* identical to box height */
+
+  color: #000000;
+}
+/* userIcon */
+.usericon{
+  position: absolute;
+  width: 374px;
+  height: 374px;
+  left: 114px;
+  top: 126px;
+}
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pellentesque leo sit amet nulla consectetur volutpat. Aliquam dapibus vitae turpis id faucibus. (user bio) */
+.userDescription{
+  position: absolute;
+  width: 920px;
+  height: 86px;
+  left: 564px;
+  top: 256px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+
+  color: #000000;
+}
+/* Store address: 249 Kale Trail, Apt. 729, 07734, Avahaven, Wyoming, United States */
+.storeAdress-title{
+  position: absolute;
+  width: 418px;
+  height: 30px;
+  left: 564px;
+  top: 366px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+  /* identical to box height */
+
+  color: #000000;
+}
+.storeAdress-content{
+  position: absolute;
+  width: 418px;
+  height: 86px;
+  left: 564px;
+  top: 396px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+
+  color: #000000;
+}
+/* Delivery address: 234 Haag Well, Apt. 673, 42951, Toniville, South Dakota, United States */
+.deliveryAddress-title{
+  position: absolute;
+  width: 418px;
+  height: 30px;
+  left: 1024px;
+  top: 366px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+  /* identical to box height */
+
+  color: #000000;
+}
+.deliveryAddress-content{
+  position: absolute;
+  width: 418px;
+  height: 86px;
+  left: 1024px;
+  top: 396px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+
+  color: #000000;
+}

@@ -2,16 +2,15 @@ import React from "react";
 import Homepage from "./pages/Homepage";
 import { BrowserRouter as Router, Routes, Route}
     from 'react-router-dom';
-import SellerPage from "./pages/SellerPage";
+import SellerPage from "./pages/UserPage";
 
 function App() {
   return (
     <>
       <Router>
-      <Homepage />
       <Routes>
         <Route path='/' element={<Homepage/>}/>
-        <Route path='/SellerPage' element={<SellerPage/>}/>
+        <Route path='/UserPage' element={<SellerPage/>}/>
       </Routes>
       </Router>
     </>
