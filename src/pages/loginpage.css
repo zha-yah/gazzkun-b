@@ -1,0 +1,217 @@
+/* login-bg */
+.login-bg{
+  position: absolute;
+  width: 1590px;
+  height: 600px;
+  left: 149px;
+  top: 255px;
+
+  background: #E7AEAE;
+  border-radius: 20px;
+}
+/* Join the marketplace! */
+.yeet-1-txt{
+  position: absolute;
+  width: 560px;
+  height: 72px;
+  left: 1115px;
+  top: 483px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 72px;
+  /* identical to box height */
+
+  color: #000000;
+}
+/* Join GAZZ-Kun! */
+.yeet-2-txt{
+  position: absolute;
+  width: 560px;
+  height: 72px;
+  left: 1115px;
+  top: 555px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 72px;
+  /* identical to box height */
+
+  color: #000000;
+}
+/* normal-signin-bg */
+.normal-signin-bg{
+  position: absolute;
+  width: 290px;
+  height: 60px;
+  left: 289px;
+  top: 671px;
+
+  background: #ECECEC;
+  border-radius: 20px;
+}
+/* normal-signin */
+.normal-signin{
+  position: absolute;
+  width: 263px;
+  height: 45px;
+  left: 302px;
+  top: 679px;
+  cursor: pointer;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+  text-align: center;
+
+  color: #2F2F2F;
+}
+/* google-signin-bg */
+.google-signin-bg{
+  position: absolute;
+  width: 403px;
+  height: 60px;
+  left: 609px;
+  top: 671px;
+
+  background: #ECECEC;
+  border-radius: 20px;
+}
+/* google-signin */
+.google-signin{
+  position: absolute;
+  width: 371px;
+  height: 45px;
+  left: 622px;
+  top: 679px;
+  cursor: pointer;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+  text-align: center;
+
+  color: #2F2F2F;
+}
+/* user-bg */
+.user-bg{
+  position: absolute;
+  width: 723px;
+  height: 60px;
+  left: 289px;
+  top: 406px;
+
+  background: #F5F5F5;
+  border-radius: 20px;
+}
+/* user-txt */
+.user-txt{
+  position: absolute;
+  width: 684px;
+  height: 45px;
+  left: 309px;
+  top: 414px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+
+  color: #2F2F2F;
+  background: #F5F5F5;
+  border: none;
+}
+/* user-title */
+.user-title{
+  position: absolute;
+  width: 205px;
+  height: 45px;
+  left: 309px;
+  top: 361px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+
+  color: #2F2F2F;
+}
+/* forgor */
+.forgor{
+  position: absolute;
+  width: 226px;
+  height: 36px;
+  left: 786px;
+  top: 591px;
+  cursor: pointer;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 36px;
+  /* identical to box height */
+
+  color: #2F2F2F;
+}
+/* pass-bg */
+.pass-bg{
+  position: absolute;
+  width: 723px;
+  height: 60px;
+  left: 289px;
+  top: 531px;
+
+  background: #F5F5F5;
+  border-radius: 20px;
+}
+/* pass-txt */
+.pass-txt{
+  position: absolute;
+  width: 684px;
+  height: 45px;
+  left: 309px;
+  top: 539px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+
+  color: #2F2F2F;
+  background: #F5F5F5;
+  border: none;
+}
+/* pass-title */
+.pass-title{
+  position: absolute;
+  width: 205px;
+  height: 45px;
+  left: 309px;
+  top: 486px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+
+  color: #2F2F2F;
+}
