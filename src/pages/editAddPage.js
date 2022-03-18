@@ -15,11 +15,11 @@ const editAddPage = () => {
       <div className='eap-pict4'/>
       <img src={plusIcon} alt='plusIcon'className='eap-plusicon'/>
       <div className='eap-image-content'>Add/Edit Image</div>
-      <input type="text" placeholder="Enter Name" className='eap-name-bg-long-txt'>
-      </input>
       <div className='eap-name-bg-long'/>
       <div className='eap-name-bg'/>
       <div className='eap-name-content'>Add/Edit Name</div>
+      <input type="text" placeholder="Enter Name" className='eap-name-bg-long-txt'>
+      </input>
       <div className='cate-1'/>
       <div className='cate-2'/>
       <div className='cate-3'/>
@@ -46,13 +46,13 @@ const editAddPage = () => {
       <div className='eap-anime12'>Anime</div>
       <div className='eap-cate-bg'/>
       <div className='eap-cate-content'>Choose Category</div>
-      <input type="text" placeholder="Enter Price" className='eap-price-bg-long-txt'>
-      </input>
       <div className='eap-price-bg-long'/>
       <div className='eap-rp-bg'/>
       <div className='eap-rp-content'>Rp</div>
       <div className='eap-price-bg'/>
       <div className='eap-price-content'>Add/Edit Price</div>
+      <input type="text" placeholder="Enter Price" className='eap-price-bg-long-txt'>
+      </input>
       <div className='eap-discard-bg'/>
       <div className='eap-discard-content'>Discard changes</div>
       <div className='eap-save-bg'/>

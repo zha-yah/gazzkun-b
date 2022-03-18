@@ -8,12 +8,18 @@ import Myorders from "../components/Userpage/Myorders/Myorders";
 const UserPage = () => {
     return(
         <>
-        <Navbar/>
-        <Userinfo/>
-        <Mylisting/>
-        <Myorders/>
-        <Footer/>
-        {/* 
+            <Navbar/>
+            <Userinfo/>
+            <Mylisting/>
+            <Myorders/>
+            <Footer/>
+        </>
+    );
+};
+
+export default UserPage;
+
+{/* 
         THE PREVIOUS IMPLEMENTATION BY Zak
             <div>
                 <h1>Seller Page</h1>
@@ -34,8 +40,3 @@ const UserPage = () => {
                     </ul>
             </div>
         */} 
-        </>
-);
-};
-
-export default UserPage;

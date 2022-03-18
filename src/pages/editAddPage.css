@@ -94,7 +94,7 @@ opacity: 0.5;
 .eap-name-bg-long-txt{
   position: absolute;
   width: 1166px;
-  height: 60px;
+  height: 55px;
   left: 490px;
   top: 539px;
   cursor: text;
@@ -107,7 +107,7 @@ opacity: 0.5;
   /* identical to box height */
 
   color: #000000;
-  background: #FFFFFF;
+  background: #F5F5F5;
   border: none;
 }
 /* nameBGlong */
@@ -330,9 +330,9 @@ opacity: 0.5;
 .eap-price-bg-long-txt{
   position: absolute;
   width: 302px;
-  height: 60px;
+  height: 53px;
   left: 490px;
-  top: 929px;
+  top: 931px;
   cursor: text;
 
   font-family: Poppins;
@@ -343,7 +343,7 @@ opacity: 0.5;
   /* identical to box height */
 
   color: #000000;
-  background: #FFFFFF;
+  background: #F5F5F5;
   border: none;
 }
 /* priceBGlong */
