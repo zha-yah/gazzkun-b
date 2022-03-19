@@ -1,5 +1,6 @@
 import React from 'react';
 import './loginpage.css';
+import { Link } from "react-router-dom";
 import Footer from '../components/Footer/Footer';
 import Navbar from '../components/Navbar/Navbar';
 
@@ -11,7 +12,9 @@ const loginpage = () => {
       <div className='yeet-1-txt'>Join the marketplace!</div>
       <div className='yeet-2-txt'>Join GAZZ-Kun!</div>
       <div className='normal-signin-bg'/>
-      <div className='normal-signin'>Sign In</div>
+      <Link to='/' activeStyle>
+        <div className='normal-signin'>Sign In</div>
+      </Link>
       <div className='google-signin-bg'/>
       <div className='google-signin'>Sign In with google</div>
       <div className='user-bg'/>

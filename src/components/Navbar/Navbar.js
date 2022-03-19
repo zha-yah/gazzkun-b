@@ -25,7 +25,9 @@ const Navbar = () => {
           User
           </span>
 		    </NavLink>
-        <div className='SignIn'>Sign In</div>
+        <NavLink to='/login' activeStyle>
+          <div className='SignIn'>Sign In</div>
+        </NavLink>
         <img src={shoppingCartIcon} alt='shoppingCartIcon' className='shoppingCartIcon' />
       </div>
     </div>
