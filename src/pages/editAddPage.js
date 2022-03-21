@@ -1,5 +1,6 @@
 import React from 'react';
 import './editAddPage.css';
+import { Link } from "react-router-dom";
 import Footer from '../components/Footer/Footer';
 import Navbar from '../components/Navbar/Navbar';
 import plusIcon from '../assets/addIcon.png';
@@ -54,9 +55,13 @@ const editAddPage = () => {
       <input type="text" placeholder="Enter Price" className='eap-price-bg-long-txt'>
       </input>
       <div className='eap-discard-bg'/>
-      <div className='eap-discard-content'>Discard changes</div>
+      <Link to='/UserPage' activeStyle>
+        <div className='eap-discard-content'>Discard changes</div>
+      </Link>
       <div className='eap-save-bg'/>
-      <div className='eap-save-content'>Save changes</div>
+      <Link to='/UserPage' activeStyle>
+        <div className='eap-save-content'>Save changes</div>
+      </Link>
       <Footer/>
     </>
   );
