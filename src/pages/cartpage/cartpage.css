@@ -1,0 +1,356 @@
+/* car-cart-title */
+.car-cart-title{
+  position: absolute;
+  width: 285px;
+  height: 72px;
+  left: 118px;
+  top: 140px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 72px;
+  /* identical to box height */
+
+  color: #000000;
+}
+/* car-item1-bg */
+.car-item1-bg{
+  position: absolute;
+  width: 1755px;
+  height: 300px;
+  left: 82px;
+  top: 924px;
+
+  background: #F5F5F5;
+  border-radius: 20px;
+}
+/* car-item1-pic */
+.car-item1-pic{
+  position: absolute;
+  width: 196px;
+  height: 196px;
+  left: 139px;
+  top: 976px;
+
+  background: #E7AEAE;
+  border-radius: 20px;
+}
+/* car-name1-txt */
+.car-name1-txt{
+  position: absolute;
+  width: 1070px;
+  height: 36px;
+  left: 357px;
+  top: 989px;
+  cursor: pointer;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 36px;
+  /* identical to box height */
+
+  color: #000000;
+}
+/* car-price1-txt */
+.car-price1-txt{
+  position: absolute;
+  width: 1070px;
+  height: 36px;
+  left: 357px;
+  top: 1038px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 36px;
+  /* identical to box height */
+
+  color: #000000;
+}
+/* car-dele-icon1 */
+.car-dele-icon1{
+  position: absolute;
+  width: 52px;
+  height: 53px;
+  left: 1670px;
+  top: 1145px;
+  cursor: pointer;
+}
+/* car-add-icon1 */
+.car-add-icon1{
+  position: absolute;
+  width: 53px;
+  height: 53px;
+  left: 1747px;
+  top: 1145px;
+  cursor: pointer;
+}
+/* car-item2-bg */
+.car-item2-bg{
+  position: absolute;
+  width: 1755px;
+  height: 300px;
+  left: 82px;
+  top: 573px;
+
+  background: #F5F5F5;
+  border-radius: 20px;
+}
+/* car-item2-pic */
+.car-item2-pic{
+  position: absolute;
+  width: 196px;
+  height: 196px;
+  left: 139px;
+  top: 625px;
+
+  background: #E7AEAE;
+  border-radius: 20px;
+}
+/* car-name2-txt */
+.car-name2-txt{
+  position: absolute;
+  width: 1070px;
+  height: 36px;
+  left: 357px;
+  top: 638px;
+  cursor: pointer;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 36px;
+  /* identical to box height */
+
+  color: #000000;
+}
+/* car-price2-txt */
+.car-price2-txt{
+  position: absolute;
+  width: 1070px;
+  height: 36px;
+  left: 357px;
+  top: 687px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 36px;
+  /* identical to box height */
+
+  color: #000000;
+}
+/* car-dele-icon2 */
+.car-dele-icon2{
+  position: absolute;
+  width: 52px;
+  height: 53px;
+  left: 1670px;
+  top: 794px;
+  cursor: pointer;
+}
+/* car-add-icon2 */
+.car-add-icon2{
+  position: absolute;
+  width: 53px;
+  height: 53px;
+  left: 1747px;
+  top: 794px;
+  cursor: pointer;
+}
+/* car-item3-bg */
+.car-item3-bg{
+  position: absolute;
+  width: 1755px;
+  height: 300px;
+  left: 82px;
+  top: 222px;
+
+  background: #F5F5F5;
+  border-radius: 20px;
+}
+/* car-item3-pic */
+.car-item3-pic{
+  position: absolute;
+  width: 196px;
+  height: 196px;
+  left: 139px;
+  top: 274px;
+
+  background: #E7AEAE;
+  border-radius: 20px;
+}
+/* car-name3-txt */
+.car-name3-txt{
+  position: absolute;
+  width: 1070px;
+  height: 36px;
+  left: 357px;
+  top: 287px;
+  cursor: pointer;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 36px;
+  /* identical to box height */
+
+  color: #000000;
+}
+/* car-price3-txt */
+.car-price3-txt{
+  position: absolute;
+  width: 1070px;
+  height: 36px;
+  left: 357px;
+  top: 336px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 36px;
+  /* identical to box height */
+
+  color: #000000;
+}
+/* car-dele-icon3 */
+.car-dele-icon3{
+  position: absolute;
+  width: 52px;
+  height: 53px;
+  left: 1670px;
+  top: 443px;
+  cursor: pointer;
+}
+/* car-add-icon3 */
+.car-add-icon3{
+  position: absolute;
+  width: 53px;
+  height: 53px;
+  left: 1747px;
+  top: 443px;
+  cursor: pointer;
+}
+/* car-price-bg-long */
+.car-price-bg-long{
+  position: absolute;
+  width: 886px;
+  height: 60px;
+  left: 951px;
+  top: 1268px;
+
+  background: #F6F6F6;
+  border-radius: 20px;
+}
+/* car-rp-bg */
+.car-rp-bg{
+  position: absolute;
+  width: 400px;
+  height: 60px;
+  left: 951px;
+  top: 1268px;
+
+  background: #F0F0F0;
+  border-radius: 20px;
+}
+/* car-price-bg */
+.car-price-bg{
+  position: absolute;
+  width: 300px;
+  height: 60px;
+  left: 951px;
+  top: 1268px;
+
+  background: #E9E9E9;
+  border-radius: 20px;
+}
+/* car-rp-txt */
+.car-rp-txt{
+  position: absolute;
+  width: 60px;
+  height: 45px;
+  left: 1277px;
+  top: 1276px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+
+  color: #2F2F2F;
+}
+/* car-price-txt */
+.car-price-txt{
+  position: absolute;
+  width: 218px;
+  height: 45px;
+  left: 996px;
+  top: 1276px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+
+  color: #2F2F2F;
+}
+/* car-num-txt */
+.car-num-txt{
+  position: absolute;
+  width: 394px;
+  height: 45px;
+  left: 1377px;
+  top: 1276px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+
+  color: #2F2F2F;
+}
+/* car-chckout-bg */
+.car-chckout-bg{
+  position: absolute;
+  width: 505px;
+  height: 60px;
+  left: 1332px;
+  top: 1372px;
+
+  background: #A7E99C;
+  border-radius: 20px;
+}
+/* car-chckout-txt */
+.car-chckout-txt{
+  position: absolute;
+  width: 471px;
+  height: 45px;
+  left: 1349px;
+  top: 1379px;
+  cursor: pointer;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+  text-align: center;
+
+  color: #2F2F2F;
+}

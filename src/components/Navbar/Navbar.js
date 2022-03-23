@@ -28,7 +28,9 @@ const Navbar = () => {
         <NavLink to='/login' activeStyle>
           <div className='SignIn'>Sign In</div>
         </NavLink>
-        <img src={shoppingCartIcon} alt='shoppingCartIcon' className='shoppingCartIcon' />
+        <NavLink to='/cart' activeStyle>
+          <img src={shoppingCartIcon} alt='shoppingCartIcon' className='shoppingCartIcon' />
+        </NavLink>
       </div>
     </div>
     </nav>

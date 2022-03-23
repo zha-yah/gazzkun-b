@@ -7,6 +7,7 @@ import TempItemPage2 from "./pages/tempItemPage/tempItemPage2";
 import EditAddPage from "./pages/editAddPage/editAddPage";
 import LoginPage from "./pages/loginpage/loginpage";
 import RegisterPage from "./pages/registerpage/registerpage";
+import CartPage from "./pages/cartpage/cartpage";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
           <Route path='/addOrEdit' element={<EditAddPage/>}/>
           <Route path='/login' element={<LoginPage/>}/>
           <Route path='/register' element={<RegisterPage/>}/>
+          <Route path='/cart' element={<CartPage/>}/>
         </Routes>
       </Router>
     </>
