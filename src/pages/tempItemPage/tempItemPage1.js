@@ -1,10 +1,10 @@
 import React from 'react';
 import './tempItemPage.css'
-import Footer from '../components/Footer/Footer';
-import Navbar from '../components/Navbar/Navbar';
-import arrowDownIcon from '../assets/arrowDown.png';
-import arrowUpIcon from '../assets/arrowUp.png';
-import item2Temp1x1 from '../assets/itemTemp-2-1x1.png';
+import Footer from '../../components/Footer/Footer';
+import Navbar from '../../components/Navbar/Navbar';
+import arrowDownIcon from '../../assets/arrowDown.png';
+import arrowUpIcon from '../../assets/arrowUp.png';
+import item2Temp1x1 from '../../assets/itemTemp-2-1x1.png';
 
 const tempItemPage1 = () => {
   return (

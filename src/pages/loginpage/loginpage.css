@@ -15,7 +15,7 @@
   width: 560px;
   height: 72px;
   left: 1115px;
-  top: 483px;
+  top: 436px;
 
   font-family: 'Poppins';
   font-style: normal;
@@ -32,7 +32,7 @@
   width: 560px;
   height: 72px;
   left: 1115px;
-  top: 555px;
+  top: 508px;
 
   font-family: 'Poppins';
   font-style: normal;
@@ -40,8 +40,38 @@
   font-size: 48px;
   line-height: 72px;
   /* identical to box height */
+  text-align: center;
 
   color: #000000;
+}
+/* log-register-bg */
+.log-register-bg{
+  position: absolute;
+  width: 290px;
+  height: 60px;
+  left: 1250px;
+  top: 597px;
+
+  background: #ECECEC;
+  border-radius: 20px;
+}
+/* log-register-title */
+.log-register-title{
+  position: absolute;
+  width: 263px;
+  height: 45px;
+  left: 1263px;
+  top: 605px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+  text-align: center;
+
+  color: #2F2F2F;
 }
 /* normal-signin-bg */
 .normal-signin-bg{

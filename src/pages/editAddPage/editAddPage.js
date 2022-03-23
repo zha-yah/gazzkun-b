@@ -1,9 +1,9 @@
 import React from 'react';
 import './editAddPage.css';
 import { Link } from "react-router-dom";
-import Footer from '../components/Footer/Footer';
-import Navbar from '../components/Navbar/Navbar';
-import plusIcon from '../assets/addIcon.png';
+import Footer from '../../components/Footer/Footer';
+import Navbar from '../../components/Navbar/Navbar';
+import plusIcon from '../../assets/addIcon.png';
 
 const editAddPage = () => {
   return (
