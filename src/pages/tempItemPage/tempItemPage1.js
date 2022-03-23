@@ -13,6 +13,7 @@ const tempItemPage1 = () => {
       <div className='temp-name'>Name of Product</div>
       <div className='temp-price'>$Price Of Product</div>
       <div className='temp-category'>Category of Product</div>
+      <div className='temp-description'>Description of Product, Lorem ipsum dolor sit amet, consectetur adipisci elit. Aenean faucibus nec tortor sed volutpat. Phasellus viverra sagittis nibh, nec imperdiet enim mollis eget.</div>
       <img src={item2Temp1x1} alt='item2Temp1x1' className='temp-item-main'/>
       <img src={item2Temp1x1} alt='item2Temp1x1' className='temp-item-top'/>
       <img src={item2Temp1x1} alt='item2Temp1x1' className='temp-item-mid'/>
