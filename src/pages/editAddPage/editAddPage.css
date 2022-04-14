@@ -480,7 +480,7 @@ opacity: 0.5;
   position: absolute;
   width: 98px;
   height: 45px;
-  left: 641px;
+  left: 633px;
   top: 657px;
   cursor: pointer;
 
@@ -500,7 +500,7 @@ opacity: 0.5;
   position: absolute;
   width: 98px;
   height: 45px;
-  left: 931px;
+  left: 917px;
   top: 657px;
   cursor: pointer;
 
@@ -519,7 +519,7 @@ opacity: 0.5;
   position: absolute;
   width: 98px;
   height: 45px;
-  left: 1221px;
+  left: 1188px;
   top: 657px;
   cursor: pointer;
 
@@ -538,7 +538,7 @@ opacity: 0.5;
   position: absolute;
   width: 98px;
   height: 45px;
-  left: 1511px;
+  left: 1510px;
   top: 657px;
   cursor: pointer;
 
@@ -557,7 +557,7 @@ opacity: 0.5;
   position: absolute;
   width: 98px;
   height: 45px;
-  left: 641px;
+  left: 612px;
   top: 742px;
   cursor: pointer;
 
@@ -574,9 +574,9 @@ opacity: 0.5;
 /* Anime6 */
 .eap-anime6{
   position: absolute;
-  width: 98px;
+  width: 200px;
   height: 45px;
-  left: 931px;
+  left: 900px;
   top: 742px;
   cursor: pointer;
 
@@ -586,16 +586,14 @@ opacity: 0.5;
   font-size: 30px;
   line-height: 45px;
   /* identical to box height */
-  text-align: center;
-
   color: #000000;
 }
 /* Anime7 */
 .eap-anime7{
   position: absolute;
-  width: 98px;
+  width: 200px;
   height: 45px;
-  left: 1221px;
+  left: 1200px;
   top: 742px;
   cursor: pointer;
 
@@ -605,7 +603,6 @@ opacity: 0.5;
   font-size: 30px;
   line-height: 45px;
   /* identical to box height */
-  text-align: center;
 
   color: #000000;
 }
@@ -614,7 +611,7 @@ opacity: 0.5;
   position: absolute;
   width: 98px;
   height: 45px;
-  left: 1511px;
+  left: 1498px;
   top: 742px;
   cursor: pointer;
 
@@ -631,9 +628,9 @@ opacity: 0.5;
 /* Anime9 */
 .eap-anime9{
   position: absolute;
-  width: 98px;
+  width: 250px;
   height: 45px;
-  left: 641px;
+  left: 565px;
   top: 827px;
   cursor: pointer;
 
@@ -650,9 +647,9 @@ opacity: 0.5;
 /* Anime10 */
 .eap-anime10{
   position: absolute;
-  width: 98px;
+  width: 200px;
   height: 45px;
-  left: 931px;
+  left: 907px;
   top: 827px;
   cursor: pointer;
 
@@ -662,16 +659,15 @@ opacity: 0.5;
   font-size: 30px;
   line-height: 45px;
   /* identical to box height */
-  text-align: center;
 
   color: #000000;
 }
 /* Anime11 */
 .eap-anime11{
   position: absolute;
-  width: 98px;
+  width: 250px;
   height: 45px;
-  left: 1221px;
+  left: 1165px;
   top: 827px;
   cursor: pointer;
 
@@ -681,16 +677,15 @@ opacity: 0.5;
   font-size: 30px;
   line-height: 45px;
   /* identical to box height */
-  text-align: center;
 
   color: #000000;
 }
 /* Anime12 */
 .eap-anime12{
   position: absolute;
-  width: 98px;
+  width: 200px;
   height: 45px;
-  left: 1511px;
+  left: 1485px;
   top: 827px;
   cursor: pointer;
 
@@ -700,7 +695,6 @@ opacity: 0.5;
   font-size: 30px;
   line-height: 45px;
   /* identical to box height */
-  text-align: center;
 
   color: #000000;
 }
