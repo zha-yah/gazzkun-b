@@ -21,6 +21,7 @@ const cartpage = () => {
       <div className='car-name1-txt'>Name of Product</div>
     </Link>
     <div className='car-price1-txt'>$Price of Product</div>
+    <div className='car-qty1-txt'> Item Quantity </div>
     <img src={deleteIcon} alt='deleteIcon' className='car-dele-icon1'/>
     <img src={addIcon} alt='addIcon' className='car-add-icon1'/>
     {/* item 2 */}
@@ -30,6 +31,7 @@ const cartpage = () => {
       <div className='car-name2-txt'>Name of Product</div>
     </Link>
     <div className='car-price2-txt'>$Price of Product</div>
+    <div className='car-qty2-txt'> Item Quantity </div>
     <img src={deleteIcon} alt='deleteIcon' className='car-dele-icon2'/>
     <img src={addIcon} alt='addIcon' className='car-add-icon2'/>
     {/* item 3 */}
@@ -37,6 +39,7 @@ const cartpage = () => {
     <img src={ItemT3} alt='ItemT3' className='car-item3-pic'/>
     <div className='car-name3-txt'>Name of Product</div>
     <div className='car-price3-txt'>$Price of Product</div>
+    <div className='car-qty3-txt'> Item Quantity </div>
     <img src={deleteIcon} alt='deleteIcon' className='car-dele-icon3'/>
     <img src={addIcon} alt='addIcon' className='car-add-icon3'/>
 
