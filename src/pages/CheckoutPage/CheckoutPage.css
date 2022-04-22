@@ -1,0 +1,510 @@
+/* chk-cart-title */
+.chk-title{
+  position: absolute;
+  width: 1133px;
+  height: 72px;
+  left: 118px;
+  top: 140px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 72px;
+  /* identical to box height */
+
+  color: #000000;
+}
+/* chk-tot-price-bg-long */
+.chk-tot-price-bg-long{
+  position: absolute;
+  width: 886px;
+  height: 60px;
+  left: 950px;
+  top: 1149px;
+
+  background: #F6F6F6;
+  border-radius: 20px;
+}
+/* chk-tot-rp-bg */
+.chk-tot-rp-bg{
+  position: absolute;
+  width: 400px;
+  height: 60px;
+  left: 950px;
+  top: 1149px;
+
+  background: #F0F0F0;
+  border-radius: 20px;
+}
+/* chk-tot-price-bg */
+.chk-tot-price-bg{
+  position: absolute;
+  width: 370px;
+  height: 60px;
+  left: 880px;
+  top: 1149px;
+
+  background: #E9E9E9;
+  border-radius: 20px;
+}
+/* chk-tot-rp-txt */
+.chk-tot-rp-txt{
+  position: absolute;
+  width: 60px;
+  height: 45px;
+  left: 1276px;
+  top: 1157px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+
+  color: #2F2F2F;
+}
+/* chk-tot-price-txt */
+.chk-tot-price-txt{
+  position: absolute;
+  width: 314px;
+  height: 45px;
+  left: 922px;
+  top: 1157px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+
+  color: #2F2F2F;
+}
+/* chk-tot-num-txt */
+.chk-tot-num-txt{
+  position: absolute;
+  width: 394px;
+  height: 45px;
+  left: 1376px;
+  top: 1157px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+
+  color: #2F2F2F;
+}
+/* chk-deli-bg-long */
+.chk-deli-bg-long{
+  position: absolute;
+  width: 886px;
+  height: 60px;
+  left: 950px;
+  top: 1063px;
+
+  background: #F6F6F6;
+  border-radius: 20px;
+}
+/* chk-deli-rp-bg */
+.chk-deli-rp-bg{
+  position: absolute;
+  width: 400px;
+  height: 60px;
+  left: 950px;
+  top: 1063px;
+
+  background: #F0F0F0;
+  border-radius: 20px;
+}
+/* chk-deli-bg */
+.chk-deli-bg{
+  position: absolute;
+  width: 370px;
+  height: 60px;
+  left: 880px;
+  top: 1063px;
+
+  background: #E9E9E9;
+  border-radius: 20px;
+}
+/* chk-deli-rp-txt */
+.chk-deli-rp-txt{
+  position: absolute;
+  width: 60px;
+  height: 45px;
+  left: 1276px;
+  top: 1071px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+
+  color: #2F2F2F;
+}
+/* chk-deli-price-txt */
+.chk-deli-price-txt{
+  position: absolute;
+  width: 218px;
+  height: 45px;
+  left: 922px;
+  top: 1071px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+
+  color: #2F2F2F;
+}
+/* chk-deli-num-txt */
+.chk-deli-num-txt{
+  position: absolute;
+  width: 394px;
+  height: 45px;
+  left: 1376px;
+  top: 1071px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+
+  color: #2F2F2F;
+}
+/* chk-price-bg-long */
+.chk-price-bg-long{
+  position: absolute;
+  width: 886px;
+  height: 60px;
+  left: 950px;
+  top: 976px;
+
+  background: #F6F6F6;
+  border-radius: 20px;
+}
+/* chk-rp-bg */
+.chk-rp-bg{
+/* chk-rp-bg */
+  position: absolute;
+  width: 400px;
+  height: 60px;
+  left: 950px;
+  top: 976px;
+
+  background: #F0F0F0;
+  border-radius: 20px;
+}
+/* chk-price-bg */
+.chk-price-bg{
+  position: absolute;
+  width: 370px;
+  height: 60px;
+  left: 880px;
+  top: 976px;
+
+  background: #E9E9E9;
+  border-radius: 20px;
+}
+/* chk-rp-txt */
+.chk-rp-txt{
+  position: absolute;
+  width: 60px;
+  height: 45px;
+  left: 1276px;
+  top: 984px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+
+  color: #2F2F2F;
+}
+/* chk-price-txt */
+.chk-price-txt{
+  position: absolute;
+  width: 218px;
+  height: 45px;
+  left: 922px;
+  top: 984px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+
+  color: #2F2F2F;
+}
+/* chk-num-txt */
+.chk-num-txt{
+  position: absolute;
+  width: 394px;
+  height: 45px;
+  left: 1376px;
+  top: 984px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+
+  color: #2F2F2F;
+}
+/* chk-pay-bg */
+.chk-pay-bg{
+  position: absolute;
+  width: 389px;
+  height: 60px;
+  left: 1132px;
+  top: 1252px;
+
+  background: #A7E99C;
+  border-radius: 20px;
+}
+/* chk-pay-txt */
+.chk-pay-txt{
+  position: absolute;
+  width: 330px;
+  height: 45px;
+  left: 1162px;
+  top: 1260px;
+  cursor: pointer;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+  text-align: center;
+
+  color: #2F2F2F;
+}
+/* chk-cart-bg */
+.chk-cart-bg{
+  position: absolute;
+  width: 290px;
+  height: 60px;
+  left: 1546px;
+  top: 1252px;
+
+  background: #ECECEC;
+  border-radius: 20px;
+}
+/* chk-cart-txt */
+.chk-cart-txt{
+  position: absolute;
+  width: 263px;
+  height: 45px;
+  left: 1559px;
+  top: 1260px;
+  cursor: pointer;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+  text-align: center;
+
+  color: #2F2F2F;
+}
+/* chk-sel-addr-txt */
+.chk-sel-addr-txt{
+  position: absolute;
+  width: 735px;
+  height: 45px;
+  left: 119px;
+  top: 256px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+
+  color: #2F2F2F;
+}
+/* chk-sel-addr-dropdown */
+.chk-sel-addr-dropdown{
+  position: absolute;
+  width: 1753px;
+  height: 60px;
+  left: 83px;
+  top: 318px;
+
+  background: #F6F6F6;
+  border-radius: 20px;
+  border: none;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  cursor: pointer;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  text-indent: 30px;
+  /* identical to box height */
+
+  color: #2F2F2F;
+}
+/* chk-sel-addr-downicon */
+.chk-sel-addr-donwicon{
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  left: 1817px;
+  top: 323px;
+}
+/* chk-add-addr-txt */
+.chk-add-addr-txt{
+  position: absolute;
+  width: 735px;
+  height: 45px;
+  left: 119px;
+  top: 443px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+
+  color: #2F2F2F;
+}
+/* chk-add-addr-bg */
+.chk-add-addr-bg{
+  position: absolute;
+  width: 1753px;
+  height: 60px;
+  left: 83px;
+  top: 505px;
+
+  background: #F6F6F6;
+  border-radius: 20px;
+}
+/* chk-add-addr-type */
+.chk-add-addr-type{
+  position: absolute;
+  width: 1698px;
+  height: 45px;
+  left: 119px;
+  top: 513px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+
+  color: #2F2F2F;
+  background: #F5F5F5;
+  border: none;
+}
+/* chk-save-addr-bg */
+.chk-save-addr-bg{
+  position: absolute;
+  width: 389px;
+  height: 60px;
+  left: 1447px;
+  top: 597px;
+
+  background: #A7E99C;
+  border-radius: 20px;
+}
+/* chk-save-addr-txt */
+.chk-save-addr-txt{
+  position: absolute;
+  width: 330px;
+  height: 45px;
+  left: 1477px;
+  top: 605px;
+  cursor: pointer;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+  text-align: center;
+
+  color: #2F2F2F;
+}
+/* chk-ship-dropdown */
+.chk-ship-dropdown{
+  position: absolute;
+  width: 1753px;
+  height: 60px;
+  left: 83px;
+  top: 789px;
+
+  background: #F6F6F6;
+  border-radius: 20px;
+  border: none;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  cursor: pointer;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  text-indent: 30px;
+  /* identical to box height */
+
+  color: #2F2F2F;
+}
+/* chk-ship-downicon */
+.chk-ship-downicon{
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  left: 1817px;
+  top: 794px;
+}
+/* chk-ship-txt */
+.chk-ship-txt{
+  position: absolute;
+  width: 735px;
+  height: 45px;
+  left: 119px;
+  top: 727px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+
+  color: #2F2F2F;
+}
+
+
+

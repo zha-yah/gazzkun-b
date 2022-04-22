@@ -291,6 +291,33 @@
   top: 443px;
   cursor: pointer;
 }
+/* car-minus-icon1 */
+.car-minus-icon3{
+  position: absolute;
+  width: 53px;
+  height: 10px;
+  left: 1592px;
+  top: 464px;
+  cursor: pointer;
+}
+/* car-minus-icon2 */
+.car-minus-icon2{
+  position: absolute;
+  width: 53px;
+  height: 10px;
+  left: 1592px;
+  top: 815px;
+  cursor: pointer;
+}
+/* car-minus-icon3 */
+.car-minus-icon1{
+  position: absolute;
+  width: 53px;
+  height: 10px;
+  left: 1592px;
+  top: 1166px;
+  cursor: pointer;
+}
 /* car-price-bg-long */
 .car-price-bg-long{
   position: absolute;
