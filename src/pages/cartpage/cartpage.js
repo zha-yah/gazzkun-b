@@ -55,7 +55,7 @@ const cartpage = () => {
     <div className='car-price-bg'/>
     <div className='car-rp-txt'>Rp</div>
     <div className='car-price-txt'>Total Price</div>
-    <div className='car-num-txt'>169.000</div>
+    <div className='car-num-txt'>159.000</div>
     <div className='car-chckout-bg'/>
     <Link to='/checkout' activeStyle>
       <div className='car-chckout-txt'>Proceed to Checkout</div>
