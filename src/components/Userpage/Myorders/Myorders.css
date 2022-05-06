@@ -52,23 +52,16 @@ top: 1330px;
   background: #E5E5E5;
   border-radius: 0px 0px 10px 10px;
 }
-/* edit */
-.editIcon-o-1{
+/* status */
+.statIcon-o-1{
   position: absolute;
-  width: 36px;
-  height: 36px;
-  left: 238px;
-  top: 1700px;
+  width: 128px;
+  height: 27px;
+  left: 266px;
+  top: 1705px;
+
   cursor: pointer;
-}
-/* delete */
-.deleteIcon-o-1{
-  position: absolute;
-  width: 35px;
-  height: 36px;
-  left: 362px;
-  top: 1700px;
-  cursor: pointer;
+  border-radius: 10px;
 }
 /* add */
 .addIcon-o-1{
@@ -126,24 +119,16 @@ top: 1330px;
   background: #E5E5E5;
   border-radius: 0px 0px 10px 10px;
 }
+/* status */
+.statIcon-o-2{
+  position: absolute;
+  width: 128px;
+  height: 27px;
+  left: 618px;
+  top: 1705px;
 
-/* edit */
-.editIcon-o-2{
-  position: absolute;
-  width: 36px;
-  height: 36px;
-  left: 590px;
-  top: 1700px;
   cursor: pointer;
-}
-/* delete */
-.deleteIcon-o-2{
-  position: absolute;
-  width: 35px;
-  height: 36px;
-  left: 714px;
-  top: 1700px;
-  cursor: pointer;
+  border-radius: 10px;
 }
 /* add */
 .addIcon-o-2{
@@ -200,23 +185,16 @@ top: 1330px;
   background: #E5E5E5;
   border-radius: 0px 0px 10px 10px;
 }
-/* edit */
-.editIcon-o-3{
+/* status */
+.statIcon-o-3{
   position: absolute;
-  width: 36px;
-  height: 36px;
-  left: 942px;
-  top: 1700px;
+  width: 128px;
+  height: 27px;
+  left: 970px;
+  top: 1705px;
+
   cursor: pointer;
-}
-/* delete */
-.deleteIcon-o-3{
-  position: absolute;
-  width: 35px;
-  height: 36px;
-  left: 1066px;
-  top: 1700px;
-  cursor: pointer;
+  border-radius: 10px;
 }
 /* add */
 .addIcon-o-3{
@@ -273,23 +251,16 @@ top: 1330px;
   background: #E5E5E5;
   border-radius: 0px 0px 10px 10px;
 }
-/* edit */
-.editIcon-o-4{
+/* status */
+.statIcon-o-4{
   position: absolute;
-  width: 36px;
-  height: 36px;
-  left: 1294px;
-  top: 1700px;
+  width: 128px;
+  height: 27px;
+  left: 1322px;
+  top: 1705px;
+
   cursor: pointer;
-}
-/* delete */
-.deleteIcon-o-4{
-  position: absolute;
-  width: 35px;
-  height: 36px;
-  left: 1418px;
-  top: 1700px;
-  cursor: pointer;
+  border-radius: 10px;
 }
 /* add */
 .addIcon-o-4{
@@ -346,23 +317,16 @@ top: 1330px;
   background: #E5E5E5;
   border-radius: 0px 0px 10px 10px;
 }
-/* edit */
-.editIcon-o-5{
+/* status */
+.statIcon-o-5{
   position: absolute;
-  width: 36px;
-  height: 36px;
-  left: 1646px;
-  top: 1700px;
+  width: 128px;
+  height: 27px;
+  left: 1674px;
+  top: 1705px;
+
   cursor: pointer;
-}
-/* delete */
-.deleteIcon-o-5{
-  position: absolute;
-  width: 35px;
-  height: 36px;
-  left: 1770px;
-  top: 1700px;
-  cursor: pointer;
+  border-radius: 10px;
 }
 /* add */
 .addIcon-o-5{

@@ -9,6 +9,9 @@ import LoginPage from "./pages/loginpage/loginpage";
 import RegisterPage from "./pages/registerpage/registerpage";
 import CartPage from "./pages/cartpage/cartpage";
 import CheckoutPage from "./pages/CheckoutPage/CheckoutPage";
+import ItemStatusPage1 from "./pages/ItemStatusPage/ItemStatusPage1";
+import ItemStatusPage2 from "./pages/ItemStatusPage/ItemStatusPage2";
+import ItemStatusPage3 from "./pages/ItemStatusPage/ItemStatusPage3";
 
 function App() {
   return (
@@ -24,6 +27,9 @@ function App() {
           <Route path='/register' element={<RegisterPage/>}/>
           <Route path='/cart' element={<CartPage/>}/>
           <Route path='/checkout' element={<CheckoutPage/>}/>
+          <Route path='/ItemStatus1' element={<ItemStatusPage1/>}/>
+          <Route path='/ItemStatus2' element={<ItemStatusPage2/>}/>
+          <Route path='/ItemStatus3' element={<ItemStatusPage3/>}/>
         </Routes>
       </Router>
     </>

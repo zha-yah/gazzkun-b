@@ -1,0 +1,152 @@
+/* sp-name */
+.sp-name{
+  position: absolute;
+  width: 545px;
+  height: 72px;
+  left: 1046px;
+  top: 244px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 72px;
+  /* identical to box height */
+
+  color: #2F2F2F;
+}
+/* sp-eta-title */
+.sp-eta-title{
+  position: absolute;
+  width: 545px;
+  height: 45px;
+  left: 1046px;
+  top: 456px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+
+  color: #2F2F2F;
+}
+/* sp-eta-content */
+.sp-eta-content{
+  position: absolute;
+  width: 545px;
+  height: 45px;
+  left: 1046px;
+  top: 501px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+
+  color: #2F2F2F;
+}
+/* sp-sendto-title */
+.sp-sendto-title{
+  position: absolute;
+  width: 545px;
+  height: 45px;
+  left: 1046px;
+  top: 341px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+
+  color: #2F2F2F;
+}
+/* sp-sendto-content */
+.sp-sendto-content{
+  position: absolute;
+  width: 545px;
+  height: 45px;
+  left: 1046px;
+  top: 386px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+
+  color: #2F2F2F;
+}
+/* status-txt */
+.sp-status-txt{
+  position: absolute;
+  width: 545px;
+  height: 45px;
+  left: 1046px;
+  top: 571px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+
+  color: #2F2F2F;
+}
+/* sp-main-img */
+.sp-main-img{
+  position: absolute;
+  width: 600px;
+  height: 600px;
+  left: 329px;
+  top: 244px;
+
+  background: #E7AEAE;
+  border-radius: 20px;
+}
+/* sp-return-bg */
+.sp-return-bg{
+  position: absolute;
+  width: 290px;
+  height: 60px;
+  left: 1319px;
+  top: 779px;
+
+  background: #ECECEC;
+  border-radius: 20px;
+}
+/* sp-return-txt */
+.sp-return-txt{
+  position: absolute;
+  width: 263px;
+  height: 45px;
+  left: 1332px;
+  top: 787px;
+  cursor: pointer;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+  text-align: center;
+
+  color: #2F2F2F;
+}
+/* ReceivedIcon */
+.sp-stat-icon{
+  position: absolute;
+  width: 230px;
+  height: 45px;
+  left: 1046px;
+  top: 639px;
+}
+
