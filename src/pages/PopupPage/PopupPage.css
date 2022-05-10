@@ -1,0 +1,48 @@
+/* ppp-msg-title */
+.ppp-msg-title{
+  position: absolute;
+  width: 562px;
+  height: 72px;
+  left: 679px;
+  top: 179px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 72px;
+  /* identical to box height */
+
+  color: #000000;
+}
+/* ppp-retbtn-bg */
+.ppp-retbtn-bg{
+  position: absolute;
+  width: 488px;
+  height: 60px;
+  left: 716px;
+  top: 293px;
+
+  background: #ECECEC;
+  border-radius: 20px;
+}
+
+/* ppp-retbtn-txt */
+.ppp-retbtn-txt{
+  position: absolute;
+  width: 449px;
+  height: 45px;
+  left: 735px;
+  top: 301px;
+  cursor: pointer;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 45px;
+  /* identical to box height */
+  text-align: center;
+
+  color: #2F2F2F;
+}

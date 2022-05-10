@@ -12,6 +12,8 @@ import CheckoutPage from "./pages/CheckoutPage/CheckoutPage";
 import ItemStatusPage1 from "./pages/ItemStatusPage/ItemStatusPage1";
 import ItemStatusPage2 from "./pages/ItemStatusPage/ItemStatusPage2";
 import ItemStatusPage3 from "./pages/ItemStatusPage/ItemStatusPage3";
+import ErrorPage from "./pages/PopupPage/ErrorPage";
+import NotsigninPage from "./pages/PopupPage/NotsigninPage";
 
 function App() {
   return (
@@ -30,6 +32,8 @@ function App() {
           <Route path='/ItemStatus1' element={<ItemStatusPage1/>}/>
           <Route path='/ItemStatus2' element={<ItemStatusPage2/>}/>
           <Route path='/ItemStatus3' element={<ItemStatusPage3/>}/>
+          <Route path='/NotSignIn' element={<NotsigninPage/>}/>
+          <Route path='/Error' element={<ErrorPage/>}/>
         </Routes>
       </Router>
     </>
