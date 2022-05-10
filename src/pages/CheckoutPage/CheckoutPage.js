@@ -13,6 +13,10 @@ const CheckoutPage = () => {
   const handleChangeShip = (event) => {
     setValueShip(event.target.value);
   };
+  const [ValueProv, setValueProv] = React.useState('');
+  const handleChangeProv = (event) => {
+    setValueProv(event.target.value);
+  };
   return (
     <>
       <Navbar/>
@@ -31,12 +35,20 @@ const CheckoutPage = () => {
         <option value="addr3">Jl. Margasatwa No. 45</option>
       </select>
 
-      {/* Dropdown for address*/}
+      {/* Dropdown for shipment*/}
       <select value={ValueShip} onChange={handleChangeShip} className='chk-ship-dropdown'>
         <option value="shiptemp" selected hidden></option>
         <option value="30000">GoSend | Same day | Rp 30.000</option>
         <option value="10000">JNE | 2-4 days | Rp 10.000</option>
         <option value="5000">SendXYZ | 5-7 days | Rp 5.000</option>
+      </select>
+
+      {/* Dropdown for Province*/}
+      <select value={ValueProv} onChange={handleChangeProv} className='chk-sel-prov-dropdown'>
+        <option value="provtemp" selected hidden></option>
+        <option value="prov1">Yogyakarta</option>
+        <option value="prov2">Jakarta</option>
+        <option value="prov3">Banten</option>
       </select>
       
       <div className='chk-tot-price-bg-long'/>
@@ -75,6 +87,7 @@ const CheckoutPage = () => {
       <div className='chk-save-addr-bg'/>
       <div className='chk-save-addr-txt'>Save Address</div>
       <div className='chk-ship-txt'>Select Shipping Plan</div>
+      <div className='chk-sel-prov-txt'>Select Province</div>
 
       <Footer/>
     </>
