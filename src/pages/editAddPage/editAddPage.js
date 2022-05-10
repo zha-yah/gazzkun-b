@@ -21,6 +21,12 @@ const editAddPage = () => {
       <div className='eap-name-content'>Add/Edit Name</div>
       <input type="text" placeholder="Enter Name" className='eap-name-bg-long-txt'>
       </input>
+      <div className='eap-desc-bg'/>
+      <div className='eap-desc-title-bg'/>
+      <div className='eap-desc-title-txt'>Add/Edit Product Description</div>
+      <textarea rows="5" cols="60" type="text" placeholder="Enter Product Description" className='eap-desc-txt'>
+      </textarea>
+
       <div className='cate-1'/>
       <div className='cate-2'/>
       <div className='cate-3'/>
