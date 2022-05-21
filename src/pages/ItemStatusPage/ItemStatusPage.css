@@ -150,3 +150,15 @@
   top: 639px;
 }
 
+/* discardBG */
+.sp-stat-icon-wd{
+  position: absolute;
+  width: 370px;
+  height: 44px;
+  left: 1046px;
+  top: 640px;
+
+  background: #FFA859;
+  border-radius: 10px;
+}
+

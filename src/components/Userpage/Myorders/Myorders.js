@@ -7,6 +7,8 @@ import itemTemp3 from '../../../assets/itemTemp-3.png';
 import OtwIcon from '../../../assets/OtwIcon.png';
 import PaidIcon from '../../../assets/PaidIcon.png';
 import ReceivedIcon from '../../../assets/ReceivedIcon.png';
+import ProcPayIcon from '../../../assets/ProcPayIcon.png';
+
 
 
 const Myorders = () => {
@@ -61,8 +63,8 @@ const Myorders = () => {
           <div className='itemDescription-o-5'>Name of Product $Price of Product Category of Product</div>
         </Link>
         <div className='itemUtil-o-5'/>
-        <Link to='/ItemStatus3' activeStyle>
-          <img src={PaidIcon} alt='InfoIcon'className='statIcon-o-5'/>
+        <Link to='/ItemStatus4' activeStyle>
+          <img src={ProcPayIcon} alt='InfoIcon'className='statIcon-o-5'/>
         </Link>
 
       <img src={arrowRight} alt='arrowRight' className='arrowRight-myOrders' />
